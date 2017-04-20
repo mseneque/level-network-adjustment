@@ -2,7 +2,6 @@
 % purpose: main script file for the least squares solution
 % of a level network
 % Matthew Seneque 
-% StudentID: 13559003 
 % 25 March 2009
 
 format short
