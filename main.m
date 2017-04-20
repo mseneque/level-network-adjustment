@@ -1,4 +1,4 @@
-% Assignment1.m
+% main.m
 % purpose: main script file for the least squares solution
 % of a level network
 % Matthew Seneque 
